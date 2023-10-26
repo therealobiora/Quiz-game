@@ -27,6 +27,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
+  text-align: center;
   height: 30vh;
   border-bottom: 1px solid #1521d12f;
 }
